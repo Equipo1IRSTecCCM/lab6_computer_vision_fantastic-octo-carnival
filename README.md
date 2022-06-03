@@ -1,0 +1,1 @@
+# lab6_computer_vision_fantastic-octo-carnival
